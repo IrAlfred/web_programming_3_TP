@@ -18,6 +18,7 @@ Votre site doit avoir les fonctionnalités suivantes
       - et d'affichage
 * Faites usage de votre imagination
 * Garder la cohérence dans votre réalisation
+* Le site sera hébergé sur l'espace qui vous sera accordé 
 
 ## Rappel
 > Une heure avec l'enseignant, 99 heures seul(e) !
